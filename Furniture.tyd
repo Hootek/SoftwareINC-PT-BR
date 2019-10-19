@@ -1,0 +1,198 @@
+Furniture
+    {
+    Elevator
+        [
+        "Elevator"
+        "Place elevators on top of each other to connect rooms on different floors"
+        ]
+    Stairs                 [ "Stairs"; "" ]
+    LeftQuarterTurnStairs  [ "Left Quarter Turn Stairs"; "" ]
+    RightQuarterTurnStairs [ "Right Quarter Turn Stairs"; "" ]
+    LeftTurnStairs         [ "Left Turn Stairs"; "" ]
+    RightTurnStairs        [ "Right Turn Stairs"; "" ]
+    Table                  [ "Table"; "Put stuff on it and chairs around it"; "Base" ]
+    GlassTable             [ "Glass Table"; "Enjoy the view of your feet while you work"; "Frame" ]
+    2mEndTable             [ "2m End Table"; "Approximately round"; "Base" ]
+    3mEndTable             [ "3m End Table"; "Even more round"; "Base" ]
+    CheapChair             [ "Cheap Chair"; "Uncomfortable plastic chair"; "Seat" ]
+    OfficeChair            [ "Office Chair"; "Nice polstered chair, no wheels though"; "Seat" ]
+    ExecutiveChair         [ "Executive Chair"; "For maximum chairing"; "Seat" ]
+    WaitingChairs          [ "Waiting Chairs"; ""; "Frame" ]
+    Couch                  [ "Couch"; "Living Room Inc." ]
+    Bench                  [ "Bench"; "It's a bench"; "Base" ]
+    SmallHeater            [ "Small Heater"; "Humble heating unit for your basic office needs"; "Base" ]
+    CeilingFan
+        [
+        "Ceiling Fan"
+        "Nifty ceiling fan, which not only looks cool, but also cools down the room! May cause noise pollution."
+        "Base"
+        ]
+    Radiator
+        [
+        "Radiator"
+        "Runs on expensive district heating, but is a lot more effective than a small heater."
+        "Base"
+        ]
+    Ventilation
+        [
+        "Ventilation"
+        "Small ventilation unit that takes air directly from the other side of a wall."
+        "Base"
+        ]
+    CentralHeating
+        [
+        "Central Heating"
+        "Industrial strength central heating unit to heat up entire buildings."
+        "Base"
+        ]
+    ACUnit
+        [
+        "AC Unit"
+        "Industrial strength air conditioning unit to cool down entire building complexes. Has to be placed above ground."
+        "Base"
+        ]
+    Industrialventilation
+        [
+        "Industrial ventilation"
+        "This fan was designed to cool a room down to accommodate servers, i.e. not people"
+        "Base"
+        ]
+    OldComputer            [ "Old Computer"; "More pixels than you can count on one hand!"; "Casing" ]
+    90sComputer            [ "90s Computer"; ""; "Casing" ]
+    Laptop                 [ "Laptop"; ""; "Casing" ]
+    ModernComputer
+        [
+        "Modern Computer"
+        "Modern computer for all your modern computer needs"
+        "Base"
+        ]
+    HoloComputer
+        [
+        "HoloComputer"
+        "Welcome to the future! Where everything is a little less convenient"
+        "Hologram"
+        ]
+    Cubiclewall
+        [
+        "Cubicle wall"
+        "Place these walls intelligently to reduce noise around work spaces. Note that cubicle walls increase employee isolation."
+        ]
+    Lamp
+        [
+        "Lamp"
+        "Make sure your employees can see when they are working late or if you can't be bothered placing windows"
+        "Shade"
+        ]
+    WallLamp               [ "Wall Lamp"; "" ]
+    DeskLamp               [ "Desk Lamp"; "For localized lighting improvements"; "Base" ]
+    FloorLamp              [ "Floor Lamp"; "Makes light, but is also in the way"; "Shade" ]
+    Fluorescentlamp
+        [
+        "Fluorescent lamp"
+        "Perfect for lighting up shady basement rooms with little maintenance, not so great for anything else, though"
+        "Shade"
+        ]
+    OutdoorLamp
+        [
+        "Outdoor Lamp"
+        "Cozy lamp for all your avoid-tripping-in-the-dark-outside-at-night needs!"
+        "Base"
+        ]
+    FireAlarm
+        [
+        "Fire Alarm"
+        "Alerts everyone in the building if a fire starts in the same room"
+        ]
+    Sprinkler              [ "Sprinkler"; "" ]
+    Securitycamera         [ "Security camera"; "" ]
+    VendingMachine         [ "Vending Machine"; "Food generator" ]
+    Fridge                 [ "Fridge"; "Generates food for cooks to cook" ]
+    Stove
+        [
+        "Stove"
+        "Cooks will use stoves to heat food. One stove per cook."
+        "Base"
+        ]
+    ServingTray
+        [
+        "Serving Tray"
+        "Cooks will fill serving trays with finished food so employees can eat it"
+        ]
+    InstantCoffee
+        [
+        "Instant Coffee"
+        "You soak some brown powder in hot water and I guess you feel less tired at some point?"
+        "Pot"
+        ]
+    Coffee                 [ "Coffee"; "Your standard ground coffee machine"; "Base" ]
+    EspressoMachine
+        [
+        "Espresso Machine"
+        "Delivers high quality coffee by being noisy and consuming large amounts of water, electricity and maintenance"
+        "Base"
+        ]
+    Toilet                 [ "Toilet"; "Poop machine"; "Base" ]
+    Sink                   [ "Sink"; ""; ""; "Frame" ]
+    WaterCooler            [ "WaterCooler"; "A place for employees to socialize"; "Shade" ]
+    Painting               [ "Painting"; "A corny painting to liven up the office"; "Frame" ]
+    TV                     [ "TV"; ""; "Frame" ]
+    Bookshelf              [ "Bookshelf"; "Complete with books!"; "Base" ]
+    Receptiondesk          [ "Reception desk"; ""; "Base" ]
+    FloorPlant             [ "Floor Plant"; "A charming floor plant"; "Pot" ]
+    TablePlant             [ "Table Plant"; "Low-poly bonsai tree"; "Pot" ]
+    TableCactus            [ "Table Cactus"; ""; "Pot" ]
+    BigPlant
+        [
+        "Big Plant"
+        "Takes up a lot of space, but employees agree that it makes up for it by looking nice"
+        "Pot"
+        ]
+    Smalltree              [ "Small tree"; ""; "Pot" ]
+    Smallpinetree          [ "Small pine tree"; ""; "Pot" ]
+    Clock                  [ "Clock"; "Time machine!(Not an actual time machine)"; "Frame" ]
+    SmallServer            [ "Small Server"; "A normal computer, but with more internet"; "Casing" ]
+    MediumServer           [ "Medium Server"; "Like a small server, but more medium"; "Casing" ]
+    TowerServer            [ "Tower Server"; "A high performance tower(Not an actual tower)"; "Casing" ]
+    ServerRack             [ "Server Rack"; "If one computer is not enough"; "Casing" ]
+    BigServerRack          [ "Big Server Rack"; "When you can't get enough server"; "Casing" ]
+    Phone                  [ "Phone"; "Who you gonna call? Support!"; "Base" ]
+    DrawingTablet
+        [
+        "Drawing Tablet"
+        "So much easier than manually inputting pixel coordinates"
+        "Base"
+        ]
+    Calculator             [ "Calculator"; "Calculators are a programmer's best friend"; "Base" ]
+    Inbox
+        [
+        "Inbox"
+        "Help keep your employees organized, especially helpful for people who haven't heard of e-mail"
+        "Box"
+        ]
+    SmallProductPrinter
+        [
+        "Small Product Printer"
+        "A small floppy printer to print your products"
+        ]
+    MediumProductPrinter   [ "Medium Product Printer"; "A medium disc printer" ]
+    LargeProductPrinter
+        [
+        "Large Product Printer"
+        "Prints smaller copies so couriers can carry more"
+        ]
+    Pallet
+        [
+        "Pallet"
+        "Can support up to 27 boxes of copies. Needs to be in the same room as a printer"
+        ]
+    Standarddoor           [ "Standard door"; "It's a door..." ]
+    Casedopening           [ "Cased opening"; "" ]
+    Slidingglassdoor       [ "Sliding glass door"; "Door that doubles as a window" ]
+    Doubledoors            [ "Double doors"; "More doors per door purchase" ]
+    Doubleglassdoor        [ "Double glass door"; "" ]
+    Smallwindow            [ "Small window"; "Completely useless if placed between rooms" ]
+    Largewindow            [ "Large window"; "If you want even more window" ]
+    Widewindow             [ "Wide window"; "For the widescreen experience" ]
+    Archedgate             [ "Arched gate"; "" ]
+    Opengate               [ "Open gate"; "" ]
+    }
