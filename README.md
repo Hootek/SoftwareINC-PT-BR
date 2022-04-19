@@ -17,7 +17,7 @@ Sobre o Jogo
 | Steam | https://store.steampowered.com/app/362620/Software_Inc/ |
 
 
-Ultimo lançamento
+Versão mais recente da tradução lançada:
 ====================
 Baixar Aqui >>>>>
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/Flynn_Son_of_Crimson_PT_BR)](https://github.com/Hootek/Flynn_Son_of_Crimson_PT_BR/releases/latest)
