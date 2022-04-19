@@ -1,0 +1,877 @@
+SoftwareCategoryDefault [ "Padrão"; "" ]
+
+Software
+    {
+    OperatingSystem
+        [
+        "Operating System"
+        "The Operating System is the largest piece of software in Software Inc.
+Most software needs an Operating System to run on. When people stop buying a line of Operating Systems, they will also stop buying software for them."
+        ]
+    Features
+        [
+        Feature { System "System" }
+        Feature
+            {
+            Multitasking
+                [
+                "Multitasking"
+                "Let your users pretend they can multitask by having several applications open at any one time"
+                ]
+            }
+        Feature { Useraccounts "User accounts" }
+        Feature
+            {
+            Name  "Plug'n'Play"
+            Value
+                [
+                "Plug'n'Play"
+                "Allow the user to interact with the operating system in any number of ways"
+                ]
+            }
+        Feature { Fileencryption "File encryption" }
+        Feature { Systemrecovery "System recovery" }
+        Feature
+            {
+            Virtualization [ "Virtualization"; "I put an OS in your OS, etc." ]
+            }
+        Feature { Codesigning "Code signing" }
+        Feature { Hardware "Hardware" }
+        Feature
+            {
+            Touch
+                [
+                "Touch"
+                "You can never have enough greasy finger prints on a surface"
+                ]
+            }
+        Feature { Fingerprintscanner "Fingerprint scanner" }
+        Feature
+            {
+            Vibration [ "Vibration"; "Device go brrr" ]
+            }
+        Feature
+            {
+            Wirelesscommunication [ "Wireless communication"; "Can't trip over electromagnetism" ]
+            }
+        Feature
+            {
+            Removabledrive
+                [
+                "Removable drive"
+                "We put save games on memory cards and save games on hard drives"
+                ]
+            }
+        Feature
+            {
+            Standardizedinput
+                [
+                "Standardized input"
+                "You'll need a keyboard to make games on your game console"
+                ]
+            }
+        Feature
+            {
+            Superoptimization
+                [
+                "Super optimization"
+                "Spend time when developing software to save money when ordering hardware (Remove extra cost when ordering product prints)"
+                ]
+            }
+        Feature { Interface "Interface" }
+        Feature { Customthemes "Custom themes" }
+        Feature { Windowingsystem "Windowing system" }
+        Feature { Unifiedsearch "Unified search" }
+        Feature { Themes "Themes" }
+        Feature { Widgets "Widgets" }
+        Feature { Notifications "Notifications" }
+        Feature { 3Drendering "3D rendering" }
+        Feature { Audio "Audio" }
+        Feature { Surroundsound "Surround sound" }
+        Feature { Speechrecognition "Speech recognition" }
+        Feature
+            {
+            Microphonesurveillance
+                [
+                "Microphone surveillance"
+                "Listen in on your users' conversations to find and fix bugs before they are reported, at the risk of getting caught"
+                ]
+            }
+        Feature
+            {
+            Network
+                [
+                "Network"
+                "How will anonymous people troll each other all over the world without this handy feature?"
+                ]
+            }
+        Feature
+            {
+            Auto-update
+                [
+                "Auto-update"
+                "Patch bugs, secure against malware and restart in the middle of an unsaved 60 page essay"
+                ]
+            }
+        Feature { Appstore "App store" }
+        Feature { Cloudbackup "Cloud backup" }
+        Feature { Wireless "Wireless" }
+        Feature
+            {
+            Motiondetection
+                [
+                "Motion detection"
+                "Who doesn't want joysticks embedded in their TVs?"
+                ]
+            }
+        Feature { Built-inspeaker "Built-in speaker" }
+        Feature { RGBLighting "RGB Lighting" }
+        ]
+    Categories
+        [
+        Category
+            {
+            Computer [ "Computer"; "For the table" ]
+            }
+        Category
+            {
+            Console [ "Console"; "For the TV" ]
+            }
+        Category
+            {
+            Phone [ "Phone"; "For the pocket" ]
+            }
+        Category { Joystick "Joystick" }
+        ]
+    Components
+        [
+        Component { Plastic "Plastic" }
+        Component { Antenna "Antenna" }
+        Component { Motherboard "Motherboard" }
+        Component { Drivebay "Drive bay" }
+        Component { Controller "Controller" }
+        Component { Case "Case" }
+        Component { Deviceinput "Device input" }
+        Component { Touchsensor "Touch sensor" }
+        Component { Vibration "Vibration" }
+        Component { Screen "Screen" }
+        Component { Fingerprintscanner "Fingerprint scanner" }
+        Component { Gyroscope "Gyroscope" }
+        Component { Smallbatterypack "Small battery pack" }
+        Component { Mediumbatterypack "Medium battery pack" }
+        Component { Bigbatterypack "Big battery pack" }
+        Component { Rumbleunit "Rumble unit" }
+        Component { Speaker "Speaker" }
+        Component { LED "LED" }
+        ]
+    }
+
+Software
+    {
+    2DEditor
+        [
+        "2D Editor"
+        "Program that allows you to handle 2 dimensional arrays of color information"
+        ]
+    Features
+        [
+        Feature
+            {
+            2Dgraphics [ "2D graphics"; "Seems pretty essential for this software type" ]
+            }
+        Feature
+            {
+            Vectorgraphics [ "Vector graphics"; "Put some lines inside your pixels" ]
+            }
+        Feature
+            {
+            Proceduralshapes [ "Procedural shapes"; "Who wants to draw a rectangle manually?" ]
+            }
+        Feature { Layers "Layers" }
+        Feature { Dynamicbrushes "Dynamic brushes" }
+        Feature { Levelsandcurves "Levels and curves" }
+        Feature
+            {
+            Imageeffects [ "Image effects"; "Needs more swirl" ]
+            }
+        Feature { Textrendering "Text rendering" }
+        Feature { Brushpresets "Brush presets" }
+        Feature { Brushstrokesmoothing "Brush stroke smoothing" }
+        Feature { Clipart "Clip art" }
+        Feature
+            {
+            Liquify [ "Liquify"; "Stretch and pull your pixels" ]
+            }
+        Feature
+            {
+            Healingbrush
+                [
+                "Healing brush"
+                "Remove zits, spots, specks, people, buildings, etc."
+                ]
+            }
+        Feature
+            {
+            Beautify
+                [
+                "Beautify"
+                "Flatter people by making them look better in photos, so they are less likely to refund your product"
+                ]
+            }
+        Feature { System "System" }
+        Feature
+            {
+            RAWimageimport
+                [
+                "RAW image import"
+                "If you need to pull some extra color from your colors"
+                ]
+            }
+        Feature { Drawingtabletsupport "Drawing tablet support" }
+        ]
+    }
+
+Software
+    {
+    3DEditor [ "3D Editor"; "Points in space, basically" ]
+    Features
+        [
+        Feature { 3Dgraphics "3D graphics" }
+        Feature
+            {
+            Sculpting [ "Sculpting"; "Pretend the points are clay" ]
+            }
+        Feature
+            {
+            Pathtracing [ "Path tracing"; "Shoot rays into the points to make a picture" ]
+            }
+        Feature
+            {
+            Skinning [ "Skinning"; "Make the points move themselves" ]
+            }
+        Feature
+            {
+            Proceduralobjects [ "Procedural objects"; "Generate points automagically" ]
+            }
+        Feature
+            {
+            Physicssimulation [ "Physics simulation"; "Make the points interact" ]
+            }
+        Feature
+            {
+            Liquidsimulation [ "Liquid simulation"; "Spill points all over the place" ]
+            }
+        Feature
+            {
+            Hairsimulation [ "Hair simulation"; "Make lines between the points" ]
+            }
+        Feature
+            {
+            Particles [ "Particles"; "Spray points all over the place" ]
+            }
+        Feature
+            {
+            Booleanoperations [ "Boolean operations"; "If point and point then point" ]
+            }
+        Feature
+            {
+            Meshsubdivision [ "Mesh subdivision"; "Add points between points" ]
+            }
+        Feature
+            {
+            Inversekinematics [ "Inverse kinematics"; "Position points neatly between other points" ]
+            }
+        Feature
+            {
+            Bitmining
+                [
+                "Bit mining"
+                "Mine bitcoin using your users' GPU to make an extra {Currency:0.1} per active user, at the risk of getting caught"
+                ]
+            }
+        Feature { System "System" }
+        Feature
+            {
+            GPUrendering [ "GPU rendering"; "Use point hardware to make points faster" ]
+            }
+        Feature
+            {
+            Motioncapture [ "Motion capture"; "Convert real life motion to point motion" ]
+            }
+        ]
+    }
+
+Software
+    {
+    AudioTool
+        [
+        "Audio Tool"
+        "The audio tool is for recording and mixing sound effects and music."
+        ]
+    Features
+        [
+        Feature
+            {
+            Audio [ "Audio"; "The things that make the sound" ]
+            }
+        Feature { Synthesizer "Synthesizer" }
+        Feature { Delayandreverb "Delay and reverb" }
+        Feature { EQandcompression "EQ and compression" }
+        Feature { Ampsimulation "Amp simulation" }
+        Feature { Wavepitchandstretch "Wave pitch and stretch" }
+        Feature
+            {
+            Autotune [ "Autotune"; "This is a thing" ]
+            }
+        Feature { Synthesizerpresets "Synthesizer presets" }
+        Feature { Soundbank "Sound bank" }
+        Feature
+            {
+            Interface [ "Interface"; "Provides the user with visuals for their aurals" ]
+            }
+        Feature { Multi-trackediting "Multi-track editing" }
+        Feature { Channelmixer "Channel mixer" }
+        Feature { Noteeditor "Note editor" }
+        Feature { Spectrumanalyzer "Spectrum analyzer" }
+        Feature { Racksimulation "Rack simulation" }
+        Feature
+            {
+            System [ "System"; "Interactions with the underlying system" ]
+            }
+        Feature { Audiocodecs "Audio codecs" }
+        Feature { MIDIdeviceinput "MIDI device input" }
+        Feature { Effectplug-ins "Effect plug-ins" }
+        Feature
+            {
+            Includedsoundcard
+                [
+                "Included soundcard"
+                "Physical sales bring in an extra 50% of the sale price, but copies cost an extra {Currency:10} to produce"
+                ]
+            }
+        ]
+    }
+
+Software
+    {
+    Game       [ "Game"; "Interactive art." ]
+    Features
+        [
+        Feature { Gamedesign "Game design" }
+        Feature { Openworld "Open world" }
+        Feature
+            {
+            Physics [ "Physics"; "Bouncy stuff" ]
+            }
+        Feature
+            {
+            Dialogtrees
+                [
+                "Dialog trees"
+                "Give the player a voice, and then make their character say something slightly different in-game"
+                ]
+            }
+        Feature
+            {
+            Branchingstory
+                [
+                "Branching story"
+                "Multiple different paths all leading to the same destination"
+                ]
+            }
+        Feature
+            {
+            Modsupport [ "Mod support"; "You can mod this feature out of the game if you want" ]
+            }
+        Feature { Customizablecharacter "Customizable character" }
+        Feature { 2DGraphics "2D Graphics" }
+        Feature
+            {
+            AdvancedHUD [ "Advanced HUD"; "Add some more GUI to your game" ]
+            }
+        Feature
+            {
+            Post-processing [ "Post-processing"; "\#Bloom" ]
+            }
+        Feature
+            {
+            ReverseUno [ "Reverse Uno"; "Negates lead designer IP ownership on release" ]
+            }
+        Feature { 3DGraphics "3D Graphics" }
+        Feature { Shadows "Shadows" }
+        Feature { Cutscenes "Cutscenes" }
+        Feature
+            {
+            VR [ "VR"; "Virtual Reality" ]
+            }
+        Feature { Facialanimations "Facial animations" }
+        Feature { Proceduralgeneration "Procedural generation" }
+        Feature
+            {
+            Wackyphysics
+                [
+                "Wacky physics"
+                "Boost your launch marketing with viral videos by introducing some bugs to your physics objects"
+                ]
+            }
+        Feature { Audio "Audio" }
+        Feature { Recordeddialog "Recorded dialog" }
+        Feature { Adaptivemusic "Adaptive music" }
+        Feature
+            {
+            Digitalexclusivemusic
+                [
+                "Digital exclusive music"
+                "Convert some of your physical sales to digital, losing some of your physical sales in the process"
+                ]
+            }
+        Feature
+            {
+            Multiplayer
+                [
+                "Multiplayer"
+                "Facilitate the screaming of obscenities by teenagers from all over the world"
+                ]
+            }
+        Feature
+            {
+            MMO [ "MMO"; "Massively Multiplayer Online" ]
+            }
+        Feature { Newdialog "New dialog" }
+        Feature { Newcutscenes "New cutscenes" }
+        Feature
+            {
+            Charactercustomization [ "Character customization"; "Bald is a hairstyle" ]
+            }
+        Feature { Newstoryline "New storyline" }
+        Feature
+            {
+            Sportsteams [ "Sports teams"; "Add some rows to the spreadsheet and call it a day" ]
+            }
+        Feature { Music "Music" }
+        Feature
+            {
+            Guns [ "Guns"; "Maybe you can add one with a little more pew pew" ]
+            }
+        Feature { Playablecharacters "Playable characters" }
+        Feature
+            {
+            Map [ "Map"; "Make your open world game even more open" ]
+            }
+        Feature { Bossfights "Boss fights" }
+        Feature { Environmentobjects "Environment objects" }
+        Feature { Sprites "Sprites" }
+        Feature { Proceduralparameters "Procedural parameters" }
+        Feature { AIarchetypes "AI archetypes" }
+        ]
+    Categories
+        [
+        Category
+            {
+            RPG [ "RPG"; "Role Playing Game" ]
+            }
+        Category { Adventure "Adventure" }
+        Category
+            {
+            Simulation [ "Simulation"; "You're playing one!" ]
+            }
+        Category { Sports "Sports" }
+        Category
+            {
+            RTS [ "RTS"; "Real Time Strategy" ]
+            }
+        Category
+            {
+            FPS [ "FPS"; "First Person Shooter" ]
+            }
+        Category
+            {
+            Expansionpack [ "Expansion pack"; "Wowee" ]
+            }
+        ]
+    }
+
+Software
+    {
+    OfficeSoftware [ "Office Software"; "For all your officing needs" ]
+    Features
+        [
+        Feature
+            {
+            Interface [ "Interface"; "Can't make office documents if you can't see them" ]
+            }
+        Feature
+            {
+            Equationrendering
+                [
+                "Equation rendering"
+                "y=(1/(σ·sqrt(2·π)))e^(-(x-μ)^2/(2·σ^2))... Doesn't look good, does it?"
+                ]
+            }
+        Feature
+            {
+            Autopagelayout
+                [
+                "Auto page layout"
+                "I.e. spending 30 minutes trying to make the picture fit in the place"
+                ]
+            }
+        Feature { Chartsandgraphs "Charts and graphs" }
+        Feature
+            {
+            Clipart [ "Clipart"; "*Stick figure pointing at chart*" ]
+            }
+        Feature
+            {
+            Animations
+                [
+                "Animations"
+                "Just slides and text gliding in from every which way and angle"
+                ]
+            }
+        Feature { Slidetemplates "Slide templates" }
+        Feature { Vectorgraphics "Vector graphics" }
+        Feature
+            {
+            Virtualassistant [ "Virtual assistant"; "Helps bug reports slowly resolve on their own" ]
+            }
+        Feature { System "System" }
+        Feature
+            {
+            Spellcheck [ "Spellcheck"; "Make anyone seem even more competent" ]
+            }
+        Feature
+            {
+            Interactiveslides
+                [
+                "Interactive slides"
+                "At this point you might as well make a website"
+                ]
+            }
+        Feature
+            {
+            Dictionary [ "Dictionary"; "Make anyone seem competent" ]
+            }
+        Feature
+            {
+            Thesaurus [ "Thesaurus"; "Make anyone seem more competent" ]
+            }
+        Feature { Financialmathlibrary "Financial math library" }
+        Feature { Geometricmathlibrary "Geometric math library" }
+        Feature
+            {
+            Datemanipulation
+                [
+                "Date manipulation"
+                "What is today minus 10. June 2014? You're looking at it"
+                ]
+            }
+        Feature { Scripting "Scripting" }
+        Feature { Network "Network" }
+        Feature { Cloudbackup "Cloud backup" }
+        Feature { Databaseconnections "Database connections" }
+        Feature { Audioplayback "Audio playback" }
+        Feature
+            {
+            Soundeffectlibrary
+                [
+                "Sound effect library"
+                "Bring some much unneeded excitement to your presentations!"
+                ]
+            }
+        Feature
+            {
+            Soundeffects
+                [
+                "Sound effects"
+                "Someone's going to enjoy this presentation and it ain't me"
+                ]
+            }
+        Feature { Mathlibrary "Math library" }
+        Feature
+            {
+            Fonts [ "Fonts"; "<b><color=\#FF0000>Papyrus</color></b>" ]
+            }
+        Feature { Documenttemplates "Document templates" }
+        Feature
+            {
+            Charts
+                [
+                "Charts"
+                "Nesting a treemap into this timeline chart would honestly save the annual report"
+                ]
+            }
+        ]
+    Categories
+        [
+        Category { ContentPack "Content Pack" }
+        ]
+    }
+
+Software
+    {
+    Antivirus
+        [
+        "Antivirus"
+        "Protecting computers from digital troublemakers since it became profitable to do so."
+        ]
+    Features
+        [
+        Feature
+            {
+            Systemscanning [ "System scanning"; "Protect against local threats" ]
+            }
+        Feature
+            {
+            Filescanner
+                [
+                "File scanner"
+                "Scan for viruses in the background causing hilarious file locks randomly"
+                ]
+            }
+        Feature
+            {
+            Applicationscanner
+                [
+                "Application scanner"
+                "Scan for malware in the background causing hilarious crashes randomly"
+                ]
+            }
+        Feature
+            {
+            Anti-theft [ "Anti-theft"; "Why not let your computer know when it's been stolen" ]
+            }
+        Feature
+            {
+            Fileencryption
+                [
+                "File encryption"
+                "Better keep that secret cookie recipe under lock!"
+                ]
+            }
+        Feature
+            {
+            Interface [ "Interface"; "Protect against usability threats" ]
+            }
+        Feature { Malwarealerts "Malware alerts" }
+        Feature { Hackingalerts "Hacking alerts" }
+        Feature { Filequarantine "File quarantine" }
+        Feature
+            {
+            Passwordmanagement
+                [
+                "Password management"
+                "Avoid filling your inbox with password resets"
+                ]
+            }
+        Feature
+            {
+            Networking [ "Networking"; "Protect against external threats" ]
+            }
+        Feature { Portblocking "Port blocking" }
+        Feature
+            {
+            Applicationaccesscontrol
+                [
+                "Application access control"
+                "Solitaire Extreme does not need to access your system files"
+                ]
+            }
+        Feature { IPfiltering "IP filtering" }
+        Feature
+            {
+            Anti-spam
+                [
+                "Anti-spam"
+                "Receive less golden opportunities from your long lost relatives"
+                ]
+            }
+        Feature
+            {
+            Adblocker [ "Ad blocker"; "Remove those things that make news sites unreadable" ]
+            }
+        Feature
+            {
+            Virusdatabase
+                [
+                "Virus database"
+                "Automagically keep your users' virus definitions up to date"
+                ]
+            }
+        Feature
+            {
+            Datamining
+                [
+                "Datamining"
+                "Sell your users' data to make an extra {Currency:0.25} per active user, at the risk of getting caught"
+                ]
+            }
+        ]
+    }
+
+Software
+    {
+    LogisticsApplication "Logistics Application"
+    Features
+        [
+        Feature { Commandline "Command line" }
+        Feature { Third-partyintegration "Third-party integration" }
+        Feature { Paymentprocessing "Payment processing" }
+        Feature { Businessoptimizationalgoritms "Business optimization algoritms" }
+        Feature { Userinterface "User interface" }
+        Feature { Prettyicons "Pretty icons" }
+        Feature { Databasemanagement "Database management" }
+        Feature { Productdatabase "Product database" }
+        Feature { Inventorymanagement "Inventory management" }
+        Feature { Employeemanagement "Employee management" }
+        ]
+    }
+
+Software
+    {
+    Website  "Website"
+    Features
+        [
+        Feature { Staticpages "Static pages" }
+        Feature { Icons "Icons" }
+        Feature { Pagelayout "Page layout" }
+        Feature { Pagestyling "Page styling" }
+        Feature { Customfont "Custom font" }
+        Feature { Dynamicpages "Dynamic pages" }
+        Feature { Useraccounts "User accounts" }
+        Feature { Messageboard "Message board" }
+        Feature { Store "Store" }
+        Feature { Backendapplication "Back end application" }
+        ]
+    }
+
+Software
+    {
+    GameAssets "Game Assets"
+    Features
+        [
+        Feature { 2Dart "2D art" }
+        Feature { Userinterfacegraphics "User interface graphics" }
+        Feature { Conceptart "Concept art" }
+        Feature { Soundeffects "Sound effects" }
+        Feature { Music "Music" }
+        Feature { WrittenDialogue "Written Dialogue" }
+        Feature { 3Dmodels "3D models" }
+        Feature { Textures "Textures" }
+        Feature { Environments "Environments" }
+        Feature { Riggingandanimation "Rigging and animation" }
+        ]
+    }
+
+Software
+    {
+    EmbeddedSystem "Embedded System"
+    Features
+        [
+        Feature { Clock "Clock" }
+        Feature { Thermostat "Thermostat" }
+        Feature { Camera "Camera" }
+        Feature { Speaker "Speaker" }
+        Feature { Motor "Motor" }
+        Feature { Display "Display" }
+        Feature { GPS "GPS" }
+        Feature { Hardwareinterface "Hardware interface" }
+        Feature { Userinterface "User interface" }
+        ]
+    Components
+        [
+        Component { Thermostat "Thermostat" }
+        Component { Camera "Camera" }
+        Component { Speaker "Speaker" }
+        Component { Motor "Motor" }
+        Component { Display "Display" }
+        Component { GPS "GPS" }
+        Component { USB "USB" }
+        Component { Board "Board" }
+        Component { Case "Case" }
+        ]
+    }
+
+Hardware
+    {
+    TestJoystick       "Joystick"
+    Height             "Height"
+    Depth              "Depth"
+    Width              "Width"
+    LengthMod          "Length Mod"
+    SkewBottom         "Skew Bottom"
+    SkewTop            "Skew Top"
+    Corners            "Corners"
+    Curve              "Curve"
+    CurveTop           "Curve Top"
+    Bend               "Bend"
+    IndentationTop     "Indentation Top"
+    IndentationBottom  "Indentation Bottom"
+    Bump               "Bump"
+    Handles            "Handles"
+    HandlesThickness   "Handles Thickness"
+    TriggerBase        "Trigger Base"
+    BackMiddle         "Back Middle"
+    BackFingerspace    "Back Fingerspace"
+    Roundness          "Roundness"
+    FaceCurve          "Face Curve"
+    FaceIndentation    "Face Indentation"
+    Buttons            "4 Buttons"
+    Size               "Size"
+    Scale              "Scale"
+    2Buttons           "2 Buttons"
+    DPad               "D-Pad"
+    DPad2              "Segmented D-Pad"
+    AnalogStick        "Analog Stick"
+    BigButton          "Big Button"
+    SelectButton       "Select Button"
+    Taper              "Taper"
+    Shape              "Shape"
+    TouchPad           "Touch Pad"
+    MiddleHandle       "Middle Handle"
+    Length             "Length"
+    Console            "Console"
+    BottomCurve        "Bottom Curve"
+    TopCurve           "Top Curve"
+    Skew               "Skew"
+    Inset              "Inset"
+    Step               "Step"
+    MiddleMod          "Middle Mod"
+    MiddleWidth        "Middle Width"
+    ControllerInsert   "Controller Insert"
+    CellPhone          "Cellphone"
+    ScreenWidth        "Screen Width"
+    ScreenHeight       "Screen Height"
+    ScreenPlacement    "Screen Placement"
+    CurveSide          "Curve Side"
+    CurveBottom        "Curve Bottom"
+    BulgeTop           "Bulge Top"
+    BulgeFront         "Bulge Front"
+    RoundedBack        "Rounded Back"
+    Bumps              "Bumps"
+    KeyHeight          "Key Height"
+    Bend2              "Bend 2"
+    KeyScale           "Key Scale"
+    Bevels             "Bevels"
+    Elliptical         "Elliptical"
+    Antenna            "Antenna"
+    Thin               "Thin"
+    Flat               "Flat"
+    SmartPhone         "Smartphone"
+    CurveBack          "Curve Back"
+    SoftCorners        "Soft Corners"
+    BezelThickness     "Bezel Thickness"
+    RoundedEdge        "Rounded Edge"
+    Bezel              "Bezel"
+    ScreenHeightBottom "Screen Height Bottom"
+    ScreenHeightTop    "Screen Height Top"
+    Notch              "Notch"
+    NotchWidth         "Notch Width"
+    OldConsole         "Old Console"
+    BottomTaper        "Bottom Taper"
+    TopTaper           "Top Taper"
+    BackBump           "Back Bump"
+    Belt               "Belt"
+    Slope              "Slope"
+    }
+
