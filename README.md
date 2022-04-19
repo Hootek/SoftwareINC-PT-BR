@@ -20,7 +20,7 @@ Sobre o Jogo
 Versão mais recente da tradução lançada:
 ====================
 Baixar Aqui >>>>>
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/Flynn_Son_of_Crimson_PT_BR)](https://github.com/Hootek/Flynn_Son_of_Crimson_PT_BR/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/oftwareINC-PT-BR)](https://github.com/Hootek/oftwareINC-PT-BR/releases/latest)
 
 # Instalação
 Versão steam
