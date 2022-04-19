@@ -23,10 +23,11 @@ Baixar Aqui >>>>>
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/softwareINC-PT-BR)](https://github.com/Hootek/softwareINC-PT-BR/releases/latest)
 
 # Instalação
-Versão steam
+Versão steam, acesse a oficina e se inscreva no mod, ele irá instalar automaticamente para você, bastando apenas selecionar a tradução no menu de idiomas do jogo.
 
-Cole os arquivos em
-Local de instalação\Software Inc\Localization
+Versão "Não steam"
+Baixe a tradução (Source code (zip)) , descompacte e cole os arquivos em:
+Local de instalação do seu jogo pasta  Software Inc\Localization
 
 ## Sobre a Tradução
 
