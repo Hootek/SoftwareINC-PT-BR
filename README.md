@@ -20,7 +20,7 @@ Sobre o Jogo
 Versão mais recente da tradução lançada:
 ====================
 Baixar Aqui >>>>>
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/oftwareINC-PT-BR)](https://github.com/Hootek/oftwareINC-PT-BR/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/softwareINC-PT-BR)](https://github.com/Hootek/softwareINC-PT-BR/releases/latest)
 
 # Instalação
 Versão steam
