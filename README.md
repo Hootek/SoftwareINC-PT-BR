@@ -1,7 +1,7 @@
 # Software Inc. Projeto de Localização para Português (Brasileiro)
 
 <h1 align="center"><figure>
-  <img src="Softwareincptbr.png">
+  <img src="softwareincptbr.png">
 </figure></h1>
 
 Tradução do jogo Software Inc. (PC)
