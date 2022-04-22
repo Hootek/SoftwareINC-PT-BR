@@ -11,7 +11,7 @@ Sobre o Jogo
 
 | DESENVOLVEDOR | Studio Thunderhorse |
 | ------------------- | ------------------- |
-| GÊNERO | Simulção, Gerenciamento, Estratégia |
+| GÊNERO | Simulação, Gerenciamento, Estratégia |
 | LANÇAMENTO | 01 de maio de 2015 |
 | PLATAFORMAS | PC |
 | Steam | https://store.steampowered.com/app/362620/Software_Inc/ |
