@@ -42,6 +42,7 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 ## Créditos
 
 Tradução e Revisão: Tulio Santos
+
 Ferramentas: JonasJTG e Tribo Gamer
 
 
