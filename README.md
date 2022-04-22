@@ -40,9 +40,8 @@ _ "Traduzir 100% do jogo com a melhor qualidade possível" _
 Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, portanto ficarei feliz se você puder ajudar de alguma forma o projeto, tradução, erros ortográficos e revisão em jogo!
 
 ## Créditos
-| Créditos |
-| ------------------- | ------------------- |
-| Tradução/Revisão | Tulio Santos |
-| Ferramentas |  JonasJTG/Tribo Gamer |
+
+Tradução/Revisão: Tulio Santos
+Ferramentas: JonasJTG/Tribo Gamer
 
 
