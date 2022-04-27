@@ -309,16 +309,16 @@ Furniture
     Battery                     [ "Bateria"; "1 watt economizado vale mais que 1 watt vendido" ]
     Windturbine                 [ "Turbina de vento"; "Puxar eletricidade do nada" ]
     Standarddoor                [ "Porta padrão"; "É uma porta..." ]
-    Casedopening                [ "Abertura em caixa"; "" ]
+    Casedopening                [ "Porta aberta"; "" ]
     Slidingglassdoor            [ "Porta deslizante de vidro"; "Porta que funciona como janela" ]
-    Doubledoors                 [ "Portas duplas"; "Mais portas!" ]
+    Doubledoors                 [ "Porta dupla"; "Mais portas!" ]
     Doubleglassdoor             [ "Porta de vidro duplo"; "" ]
     Smallwindow                 [ "Janela pequena"; "Completamente inútil se colocado entre as salas" ]
     Largewindow                 [ "Janela grande"; "Se você quiser ainda mais janela" ]
-    Widewindow                  [ "Janela Larga"; "Para a experiência alargante" ]
-    Smallprivatewindow          [ "Pequena janela privada"; "Para todas as necessidades de seu banheiro" ]
+    Widewindow                  [ "Janela larga"; "Para a experiência alargante" ]
+    Smallprivatewindow          [ "Janela pequena com privacidade"; "Para todas as necessidades de seu banheiro" ]
     Archedgate                  [ "Portão em arco"; "" ]
-    Opengate                    [ "Abrir portão"; "" ]
+    Opengate                    [ "Portão aberto"; "" ]
     }
 
 Stairs    "Escadas"
