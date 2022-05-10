@@ -21,7 +21,7 @@ Pressione {H:OK} quando estiver pronto para continuar."
 Observe que as revisões serão baseadas em uma versão do projeto que existia quando você clicou pela primeira vez, portanto, as alterações subsequentes não serão contabilizadas.
 
 Clique no botão {H:Finalizar} na revisão quando a barra de progresso estiver cheia."
-    SHARED4                 "Se a pontuação da revisão for insatisfatória, você pode clicar no botão iterar para pausar o desenvolvimento e permitir que seus designers retrabalhem o documento de design. Isso vai aparar as pontas soltas, mas também irá atrasar um pouco o progresso do seu projeto.
+    SHARED4                 "Se a pontuação da revisão for insatisfatória, você pode clicar no botão iterar para pausar o desenvolvimento e permitir que seus designers retrabalhem o documento de design. Isso vai apertar as pontas soltas, mas também atrasar um pouco o progresso do seu projeto.
 
 Se você estiver satisfeito com sua pontuação, basta fechar a janela de revisão e continuar o desenvolvimento."
     SHARED5                 "Pressionar {KeyBind:MultipleSelect} em objetos, salas ou funcionários permitirá que você selecione vários ao mesmo tempo, então você pode pressionar {KeyBind:ContextMenu} em qualquer lugar para ver o menu de contexto. Você pode segurar {KeyBind:SweepSelect} para selecionar objetos do mesmo tipo rapidamente ou pressionar {KeyBind:NormalSelection} e arrastar para selecionar tudo dentro de um retângulo.
@@ -214,9 +214,9 @@ Clique em Aplicar quando estiver pronto ou feche a janela se quiser cancelar sua
 Você também pode criar seções de parede curvas usando a {H:Ferramenta de Curva} e clicando em uma parede que não tem nada nela e arrastando o mouse para fora.
 
 Clique em Continuar quando estiver pronto para continuar."
-    BUILDMODE17             "When you no longer feel like you have enough space for your buildings, you can buy new plot areas by going to plot mode.
+    BUILDMODE17            "Quando você sentir que não tem mais espaço suficiente para seus prédios, você pode comprar novas áreas de lote no modo de lote.
 
-When you are ready to continue, exit build mode."
+Quando estiver pronto para continuar, saia do modo de compilação."
     BUILDMODE18             "Quando estiver pronto, abra a janela de funcionários para começar a gerenciar seus funcionários."
     CONTRACTS1              "Comece abrindo a janela do contrato."
     CONTRACTS2              "Esta é uma lista de contratos disponíveis. Novos contratos serão adicionados à medida que os mais antigos forem concluídos.
@@ -629,104 +629,104 @@ Pesquisar novas tecnologias antes de qualquer outra pessoa permitirá que você 
 A carga que você colocar em um grupo de servidores conectados será distribuída entre todos os servidores do grupo. Se um servidor em um grupo falhar, todo o grupo para de funcionar.
 
 Abra a interface de fiação do servidor clicando no botão de conexão."
-    SERVER2                 "Outside of connecting servers, you can use wire mode to get an overview of your server connections.
-		
-Exit wire mode and bring up the server window when you are ready."
-    SERVER3                 "From here you can manage your servers and check if they are overheating.
+    SERVER2                 "Fora dos servidores de conexão, você pode usar o modo de conexão para obter uma visão geral das conexões do servidor.
 
-If you select a server group, you can see a list of all processes running on that server group. You can then move those processes to other servers by pressing {H:Move Selected Processes}.
+Saia do modo de conexão e abra a janela do servidor quando estiver pronto."
+    SERVER3                 "A partir daqui você pode gerenciar seus servidores e verificar se eles estão superaquecendo.
 
-You can also pick a fallback server, which will handle a server group's processes if the group breaks down."
-    SERVER4                 "If you destroy a server group completely, all processes will be unsupported, which can have major consequences.
-		
-If this happens you should click the {H:View unsupported processes} button and redelegate all processes to other servers.
+Se você selecionar um grupo de servidores, poderá ver uma lista de todos os processos em execução nesse grupo de servidores. Você pode então mover esses processos para outros servidores pressionando {H:Mover processos selecionados}.
 
-Press End to finish the tutorial."
-    SIMPLEDESIGNDOCUMENT13  "While you made your choices, the game made some choices on your behalf in the background.
+Você também pode escolher um servidor de fallback, que lidará com os processos de um grupo de servidores se o grupo quebrar."
+    SERVER4                "Se você destruir um grupo de servidores completamente, todos os processos ficarão sem suporte, o que pode ter grandes consequências.
 
-The game's choices might not be optimal, but you can safely start development at this point.
+Se isso acontecer, você deve clicar no botão {H:Visualizar processos não suportados} e delegar novamente todos os processos para outros servidores.
 
-If you want to dive deeper into dependencies, frameworks and market targeting, you can switch to the advanced version of the design document by clicking {H:Advanced}, otherwise just click {H:Develop}."
-    STAFF1                  "Begin by opening the staff window."
-    STAFF2                  "This is the staff window. At the top you will see a list of your currently employed staff, whether permanent or temporary."
-    STAFF3                  "With the buttons under {H:Permanent} you can hire staff permanently to clean, fix your furniture, etc. You can see their salary by hovering over the buttons. They will show up once a day until you dismiss them.
+Pressione Fim para terminar o tutorial."
+    SIMPLEDESIGNDOCUMENT13  "Enquanto você fez suas escolhas, o jogo fez algumas escolhas em seu nome em segundo plano.
 
-You can change their working hours using the buttons in the list."
-    STAFF4                  "With the buttons under {H:Temporary} you can hire staff temporarily. They will stay until their job is done or until you dismiss them. Hovering over the buttons will show you their terms.
+As escolhas do jogo podem não ser ótimas, mas você pode iniciar o desenvolvimento com segurança neste ponto.
 
-Press {H:Finish} to end the tutorial."
-    STOCKS1                 "Start by opening your company detail window to view your stocks."
-    STOCKS2                 "In the upper right corner of the company window, there's panel that allows you to sell shares in your company. Your company's value depends on how well your company is doing selling services and products, which determines how much of your company you can sell.
+Se você quiser se aprofundar nas dependências, estruturas e segmentação de mercado, poderá alternar para a versão avançada do documento de design clicando em {H:Avançado}, caso contrário, basta clicar em {H:Desenvolver}."
+    STAFF1                  "Comece abrindo a janela da equipe."
+    STAFF2                  "Esta é a janela de funcionários. No topo, você verá uma lista de seus funcionários atualmente empregados, sejam permanentes ou temporários."
+    STAFF3                  "Com os botões em {H:Permanente}, você pode contratar funcionários permanentemente para limpar, consertar seus móveis etc. Você pode ver o salário deles passando o mouse sobre os botões. Eles aparecerão uma vez por dia até você demiti-los.
 
-The first time you sell shares is called in {H:Initial Public Offering}, and all your money and the money you are raising will be separated into approximately {Currency:100} shares, which will be distributed among yourself and your investors.
+Você pode alterar o horário de trabalho deles usando os botões da lista."
+    STAFF4                  "Com os botões em {H:Temporário}, você pode contratar funcionários temporariamente. Eles ficarão até que o trabalho deles seja concluído ou até que você os demita. Passar o mouse sobre os botões mostrará seus termos.
 
-Below this panel you will see a list of stocks you can buy and sell, depending on whether the company is {H:Publicly listed}, i.e. whether they are selling any shares at all.
+Pressione {H:Finalizar} para encerrar o tutorial."
+    STOCKS1                 "Comece abrindo a janela de detalhes da sua empresa para visualizar suas ações."
+    STOCKS2                 "No canto superior direito da janela da empresa, há um painel que permite vender ações de sua empresa. O valor de sua empresa depende de quão bem sua empresa está vendendo serviços e produtos, o que determina quanto de sua empresa você pode vender.
 
-Try opening another company's detail window, to see how many stocks they have. You can check the {H:Listed} column in the company window, to see how many percent of a company is up for sale."
-    STOCKS3                 "Owning share in a company will earn you {H:Dividends}, which means you will get a percentage of the company's profits each month, depending on how much of the company you own. Note that you also have to pay dividends to your shareholders.
+A primeira vez que você vender ações é chamado em {H:Oferta pública inicial}, e todo o seu dinheiro e o dinheiro que você está levantando serão separados em aproximadamente {Currency:100} ações, que serão distribuídas entre você e seus investidores.
 
-If you own more than {H:10%} of a company, you get to use their research before anyone else and if you own more than {H:25%} you don't have to pay royalties when using this company's tools, operating systems, frameworks or patents. Again, this also works the other way.
+Abaixo deste painel, você verá uma lista de ações que você pode comprar e vender, dependendo se a empresa é {H:Listado publicamente}, ou seja, se está vendendo alguma ação.
 
-When you own more than {H:50%} of a company, you have a chance to buy them out. Buying a company out allows you to take over all their assets or make them a subsidiary. Subsidiaries will continue to operate as normal, but you can control their releases and ask them to do certain tasks for you.
+Tente abrir a janela de detalhes de outra empresa para ver quantas ações ela tem. Você pode verificar a coluna {H:Listedo} na janela da empresa para ver quantos por cento de uma empresa está à venda."
+    STOCKS3                "A propriedade de ações de uma empresa lhe renderá {H:Dividendos}, o que significa que você receberá uma porcentagem dos lucros da empresa a cada mês, dependendo de quanto da empresa você possui. Observe que você também precisa pagar dividendos aos seus acionistas .
 
-If another company owns more than 50% of your company, they might start a {H:Hostile takeover}, which gives you 6 months to get them below 25% before your company is dissolved.
+Se você possui mais de {H:10%} de uma empresa, pode usar suas pesquisas antes de qualquer outra pessoa e, se possui mais de {H:25%}, não precisa pagar royalties ao usar as ferramentas desta empresa, sistemas operacionais, estruturas ou patentes. Novamente, isso também funciona de outra maneira.
 
-When a company goes bankrupt, all its assets will be distributed among its majority shareholders."
-    SUBSIDIARY1             "To begin the tutorial, make sure you have a subsidiary and have their company detail window open."
-    SUBSIDIARY2             "You control subsidiaries mainly in the company detail window.
-		
-You can use the slider to withdraw and deposit money, just like your savings account. Withdrawing all money from a subsidiary will close down the company, giving you all their assets.
+Quando você possui mais de {H:50%} de uma empresa, tem a chance de comprá-la. A compra de uma empresa permite que você assuma todos os seus ativos ou transforme-a em uma subsidiária. As subsidiárias continuarão operando normalmente, mas você pode controlar suas liberações e pedir que façam determinadas tarefas para você.
 
-The detail window also gives you an overview of their planned releases and the ability to cancel them.
+Se outra empresa for proprietária de mais de 50% da sua empresa, ela poderá iniciar uma {H:Aquisição hostil}, que lhe dará 6 meses para reduzi-la a 25% antes que sua empresa seja dissolvida.
 
-Press Continue when you're ready."
-    SUBSIDIARY3             "Developing takes up resources for a subsidiary, if you want them to work on specific tasks, or you want to control their release schedule, you can disable their autonomy, to make sure they don't spend time doing other things.
-		
-You can only assign projects that the subsidiary normally develops, so pay attention to their past and future releases. Try opening the design document and picking the software type they normally work on."
-    SUBSIDIARY4             "Some tasks can be assigned to subsidiaries as well. This is expensive and takes up a lot of the subsidiary's resources. Keep an eye out for the company option when you are selecting teams for a task.
-		
-End the tutorial when you are ready"
-    SUPPORTWORK1            "Before the support tutorial can continue, you need to have a product released and start support for it.
+Quando uma empresa vai à falência, todos os seus ativos serão distribuídos entre seus acionistas majoritários."
+    SUBSIDIARY1             "Para começar o tutorial, certifique-se de ter uma subsidiária e ter a janela de detalhes da empresa aberta."
+    SUBSIDIARY2             "Você controla subsidiárias principalmente na janela de detalhes da empresa.
 
-You can open the {H:Your releases} window and start support from there, if you have any products."
-    SUPPORTWORK2            "When you release a new piece of software it will spawn a support work item. Through this work item you will receive support tickets from your customers, assuming you have any.
+Você pode usar o controle deslizante para sacar e depositar dinheiro, assim como sua conta poupança. Retirar todo o dinheiro de uma subsidiária fechará a empresa, dando a você todos os seus ativos.
 
-Support for a product never ends by itself, so you'll have to end it when you think support isn't necessary anymore. Keep an eye on the active user count to help guide you."
-    SUPPORTWORK3            "Support tickets should be answered as quickly as possible to avoid consumer backlash and a loss of market recognition.
-			
-An employee's {H:Service} skill determines how quickly they can answer support tickets and having at least one star in the {H:Support} specialization will allow them to report bugs.
+A janela de detalhes também oferece uma visão geral das liberações planejadas e a capacidade de cancelá-las.
 
-As bugs get verified by supporters, you'll want to fix them by releasing updates, which you can do by clicking the {H:Update} button on the task or from {H:Your releases}."
-    TEAMMANAGEMENT1         "Begin by opening the team window."
-    TEAMMANAGEMENT2         "In this window you can manage and create teams.
-		
-You can add a new team by typing a name and clicking the button in the bottom."
-    TEAMMANAGEMENT3         "When you select one or more teams in the list you can see the average skill and counts of each specialization level of all employees in the selected teams.
-		
-You can change your teams' arrival and departure times by typing your desired hours in the left input fields with one or more teams selected."
-    TEAMMANAGEMENT4         "You can set when vacation starts for your teams and how wide vacations should be spread. A vacation range of 2 means the vacation of all employees on a team will be split in 2 over 2 months, so you'll always have at least half of the employees at work.
+Pressione Continuar quando estiver pronto."
+    SUBSIDIARY3             "Desenvolver ocupa recursos para uma subsidiária, se você quiser que ela trabalhe em tarefas específicas ou queira controlar o cronograma de lançamento, você pode desabilitar sua autonomia, para garantir que ela não perca tempo fazendo outras coisas.
 
-You can enable crunch on a team to force your employees to work faster at the cost of their well-being."
-    TEAMMANAGEMENT5         "To get an overview of your teams role assignments you can click the {H:Manage roles} button.
-			
-You can also set {H:Secondary tasks} for each team. Employees will only work on secondary tasks if they have no assigned primary task, which by default is every task."
-    TEMPERATUREREGULATION1  "Start by entering {H:Build mode} by clicking the Build-button."
-    TEMPERATUREREGULATION2  "Offices and reception areas need to have some temperature regulation to make sure employees and guests are comfortable in their environment.
+Você só pode atribuir projetos que a subsidiária desenvolve normalmente, portanto, preste atenção em seus lançamentos passados e futuros. Tente abrir o documento de design e escolher o tipo de software em que eles normalmente trabalham."
+    SUBSIDIARY4             "Algumas tarefas também podem ser atribuídas a subsidiárias. Isso é caro e consome muitos recursos da subsidiária. Fique de olho na opção da empresa ao selecionar equipes para uma tarefa.
 
-Rooms can be heated and cooled in two ways: Either on a room-by-room basis or using a distributed system of pipes and vents.
+Termine o tutorial quando estiver pronto"
+    SUPPORTWORK1            "Antes que o tutorial de suporte possa continuar, você precisa ter um produto lançado e iniciar o suporte para ele.
 
-To regulate the temperature in small offices, you can place down {H: Small Heaters, Ceiling Fans, Electric Radiators and AC Units}, which will immediately start changing the temperature in a room. Regulating the temperature in this way requires a lot of maintenance and will quickly drive up expenses in larger buildings.
+Você pode abrir a janela {H:Seus lançamentos} e iniciar o suporte a partir daí, se tiver algum produto."
+    SUPPORTWORK2            "Quando você lança um novo software, ele gera um item de trabalho de suporte. Por meio desse item de trabalho, você receberá tíquetes de suporte de seus clientes, supondo que você tenha algum.
 
-Click {H:Continue} to hear about the distributed solution."
-    TEMPERATUREREGULATION3  "You can use {H:Central Heating} and {H:Roof ACs} to distribute hot and cold air throughout a building using {H:Radiators} and {H:Ventilation} in each room. Since Radiators and Ventilation don't require maintenance, it will heavily reduce the workload for your staff.
+O suporte para um produto nunca termina sozinho, então você terá que encerrá-lo quando achar que o suporte não é mais necessário. Fique de olho na contagem de usuários ativos para ajudar a orientá-lo."
+    SUPPORTWORK3            "Os tickets de suporte devem ser respondidos o mais rápido possível para evitar a reação do consumidor e a perda de reconhecimento do mercado.
 
-When you've placed a central temperature unit, you can select it and click on the {H:Auto-buy temperature outputs} in the bottom left corner to place ventilation and radiators in offices and reception areas automatically."
-    UPDATES1                "Start by launching an update of one of your existing products"
-    UPDATES2                "Updating a product can entail patching any bugs that have been verified by your support team and/or increasing a product's tech levels to attract new customers or hold on to existing customers.
+A habilidade {H:Serviços} de um funcionário determina a rapidez com que eles podem responder aos chamados de suporte e ter pelo menos uma estrela na especialização {H:Suporte} permitirá que eles relatem bugs.
 
-There are no limits to how often you update your software. You can release daily patches if you want.
+À medida que os bugs são verificados pelos apoiadores, você deve corrigi-los lançando atualizações, o que pode ser feito clicando no botão {H:Atualização} na tarefa ou em {H:Seus lançamentos}."
+    TEAMMANAGEMENT1         "Comece abrindo a janela da equipe."
+    TEAMMANAGEMENT2         "Nesta janela você pode gerenciar e criar equipes.
 
-Click on the {H:Update} button when you are ready to go."
+Você pode adicionar uma nova equipe digitando um nome e clicando no botão na parte inferior."
+    TEAMMANAGEMENT3         "Ao selecionar uma ou mais equipes na lista, você pode ver a habilidade média e as contagens de cada nível de especialização de todos os funcionários das equipes selecionadas.
+
+Você pode alterar os horários de chegada e partida de suas equipes digitando as horas desejadas nos campos de entrada à esquerda com uma ou mais equipes selecionadas."
+    TEAMMANAGEMENT4         "Você pode definir quando as férias começam para suas equipes e quão amplas as férias devem ser distribuídas. Um intervalo de férias de 2 significa que as férias de todos os funcionários de uma equipe serão divididas em 2 por 2 meses, então você sempre terá pelo menos metade dos funcionários no trabalho.
+
+Você pode ativar o crunch em uma equipe para forçar seus funcionários a trabalhar mais rápido ao custo de seu bem-estar."
+    TEAMMANAGEMENT5         "Para obter uma visão geral das atribuições de função de sua equipe, clique no botão {H:Gerenciar funções}.
+
+Você também pode definir {H:Tarefas secundárias} para cada equipe. Os funcionários só trabalharão em tarefas secundárias se não tiverem uma tarefa primária atribuída, que por padrão é todas as tarefas."
+    TEMPERATUREREGULATION1  "Comece digitando {H:Modo de construção} clicando no botão Construção."
+    TEMPERATUREREGULATION2  "Escritórios e áreas de recepção precisam ter alguma regulação de temperatura para garantir que funcionários e convidados estejam confortáveis em seu ambiente.
+
+Os ambientes podem ser aquecidos e resfriados de duas maneiras: por ambiente ou usando um sistema distribuído de tubos e aberturas.
+
+Para regular a temperatura em pequenos escritórios, você pode colocar {H: Aquecedores Pequenos, Ventiladores de Teto, Radiadores Elétricos e Unidades de CA}, que começarão imediatamente a alterar a temperatura em uma sala. Regular a temperatura dessa maneira requer muita manutenção e aumentará rapidamente as despesas em edifícios maiores.
+
+Clique em {H:Continuar} para saber mais sobre a solução distribuída."
+    TEMPERATUREREGULATION3  "Você pode usar {H:Aquecimento central} e {H:ACs de telhado} para distribuir ar quente e frio em um prédio usando {H:Radiadores} e {H:Ventilação} em cada cômodo. Como os Radiadores e a Ventilação não requerem manutenção, isso reduzirá bastante a carga de trabalho de sua equipe.
+
+Quando você coloca uma unidade de temperatura central, você pode selecioná-la e clicar em {H:Saídas de temperatura de compra automática} no canto inferior esquerdo para colocar ventilação e radiadores em escritórios e áreas de recepção automaticamente."
+    UPDATES1               "Comece lançando uma atualização de um de seus produtos existentes"
+    UPDATES2                "A atualização de um produto pode implicar a correção de quaisquer bugs verificados por sua equipe de suporte e/ou aumentar os níveis de tecnologia de um produto para atrair novos clientes ou manter os clientes existentes.
+
+Não há limites para a frequência com que você atualiza seu software. Você pode liberar patches diários se quiser.
+
+Clique no botão {H:Atualização} quando estiver pronto para começar."
     WELCOME1                "Bem-vindo à Software Inc.
 
 Você pode arrastar esta janela para outro lugar se estiver no caminho, clicando e arrastando a barra de título.
