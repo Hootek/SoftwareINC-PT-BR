@@ -503,7 +503,7 @@ Tente selecionar um quarto que você pode alugar agora. Os quartos disponíveis 
 Quando estiver pronto para continuar, saia do modo de compilação."
     LEASING13               "Quando estiver pronto, abra a janela de funcionários para começar a gerenciar seus funcionários."
     MANUFACTURING1          "Inicie o tutorial pressionando o botão {H:Desenvolver software} para abrir o documento de design."
-    MANUFACTURING2          "Alguns produtos precisam ser fabricados e não podem ser vendidos digitalmente, como {H:phones} e {H:Console de jogos}. No entanto, esses produtos geralmente têm uma barreira de entrada menor para penetração no mercado, mas exigem um alto investimento inicial Você também poderá satisfazer os clientes mais facilmente adicionando recursos de hardware, em vez de passar anos codificando recursos complexos de software.
+    MANUFACTURING2          "Alguns produtos precisam ser fabricados e não podem ser vendidos digitalmente, como {H:Telefones} e {H:Console de jogos}. No entanto, esses produtos geralmente têm uma barreira de entrada menor para penetração no mercado, mas exigem um alto investimento inicial Você também poderá satisfazer os clientes mais facilmente adicionando recursos de hardware, em vez de passar anos codificando recursos complexos de software.
 
 O pedido de hardware fica muito caro e você terá que configurar sua própria fabricação se quiser obter um lucro decente.
 
@@ -514,7 +514,7 @@ Tente selecionar um {H:tipo de software} e {H:categoria} que exija fabricação 
 Os principais componentes precisam ser impressos e mostrarão quantas {H:Impressoras de componentes} você precisa para imprimir o maior número possível de componentes por mês. Esses componentes determinarão o custo de fabricação de uma cópia do seu produto. Os demais componentes serão montados em {H:Montadores de componentes}, utilizando os componentes impressos, e não são cobrados.
 
 Tente abrir a {H:Janela de distribuição} agora e confira a guia {H:Hardware} para ver os trabalhos de fabricação de hardware ativos."
-    MANUFACTURING5          "Ao selecionar uma tarefa de impressão neste painel, você também obterá uma visão geral dos componentes necessários nesta janela. Você pode clicar no botão {H:Aparecer} e entrar no modo de construção para visualizar os requisitos enquanto está colocando impressoras e montadoras.
+    MANUFACTURING5          "Ao selecionar uma tarefa de impressão neste painel, você também obterá uma visão geral dos componentes necessários nesta janela. Você pode clicar no botão {H:Nova Janela} e entrar no modo de construção para visualizar os requisitos enquanto está colocando impressoras e montadoras.
 
 Quando terminar de inspecionar a janela de distribuição, abra o {H:Modo construção} para ver como você configura sua própria fábrica."
     MANUFACTURING6          "Para configurar sua própria fabricação, você precisará de 3 máquinas:

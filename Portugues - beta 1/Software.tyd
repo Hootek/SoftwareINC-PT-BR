@@ -120,7 +120,7 @@ A maioria dos softwares precisa de um sistema operacional para ser executado. Qu
             {
             Motiondetection
                 [
-                "Detector de movimento"
+                "Movimento"
                 "Quem não quer joysticks embutidos em suas TVs?"
                 ]
             }
@@ -399,7 +399,7 @@ Software
             }
         Feature { 3DGraphics "Gráficos 3D" }
         Feature { Shadows "Sombras" }
-        Feature { Cutscenes "Cutscenes" }
+        Feature { Cutscenes "Cenas Animadas" }
         Feature
             {
             VR [ "VR"; "Realidade Virtual" ]
@@ -792,6 +792,68 @@ Software
         ]
     }
 
+Software
+    {
+    Distributionplatform "Plataforma de distribuição"
+    Features
+        [
+        Feature { Platform "Plataforma" }
+        Feature
+            {
+            Filemanagement
+                [
+                "Gerenciamento de arquivos"
+                "Certifique-se de que os usuários não precisem estar intimamente cientes da estrutura de pastas do computador"
+                ]
+            }
+        Feature
+            {
+            Recommendationsystem
+                [
+                "Sistema de recomendação"
+                "Talvez as pessoas não estejam comprando <Color=\#0000FF>Colorful</Color> <Color=\#FF0000>Calculator</Color> <Color=\#00FF00>4</Color> porque eles simplesmente não sabem que existe ainda"
+                ]
+            }
+        Feature
+            {
+            PlatformSDK [ "Plataforma de desenvolvimento"; "Por que não deixar outros aplicativos mexerem com seu aplicativo?" ]
+            }
+        Feature { Interface "Interface" }
+        Feature { Librarymanagement "Gerenciamento de biblioteca" }
+        Feature
+            {
+            Reviewsystem [ "Sistema de Análise"; "9/10 -Tem um pouco de tudo para todos" ]
+            }
+        Feature { Networking "Rede" }
+        Feature { Cloudsync "Sincronização na nuvem" }
+        Feature
+            {
+            Socialfeatures
+                [
+                "Recursos sociais"
+                 "Amigos, bate-papo, fóruns e outros meios de divulgação de fotos de gatos"
+                ]
+            }
+        Feature { Voicechat "Chat por voz" }
+        Feature
+            {
+            Deltapatching
+                [
+                "Correção delta"
+                "Acontece, você só precisa atualizar as coisas que mudaram"
+                ]
+            }
+        Feature
+            {
+            Remotestreaming
+                [
+                "Transmissão remota"
+                "A tecnologia de alta largura de banda finalmente permitiu que os usuários transmitissem suas planilhas favoritas para a TV da sala de estar em full HD"
+                ]
+            }
+        ]
+    }
+    
 Hardware
     {
     TestJoystick       "Joystick"
