@@ -24,6 +24,8 @@ Baixar Aqui >>>>>
 
 # Instalação
 Versão steam, acesse a oficina e se inscreva no mod, ele irá instalar automaticamente para você, bastando apenas selecionar a tradução no menu de idiomas do jogo.
+[Mod disponível aqui](https://steamcommunity.com/sharedfiles/filedetails/?id=1338236673&searchtext=
+)
 
 Versão "Não steam"
 Baixe a tradução (Source code (zip)) , descompacte e cole os arquivos em:
