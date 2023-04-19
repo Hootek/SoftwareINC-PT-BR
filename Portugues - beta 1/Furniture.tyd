@@ -12,6 +12,7 @@ Furniture
     RightQuarterTurnStairs      [ "Escadas com Degraus à Direita"; "" ]
     LeftTurnStairs              [ "Escadas para a Esquerda"; "" ]
     RightTurnStairs             [ "Escadas para a Direita"; "" ]
+    RoundColumn                  [ "Coluna arredondada"; "" ]
     Table                       [ "Mesa"; "Coloque coisas nela e cadeiras ao redor" ]
     CornerTable                 [ "Mesa de canto"; "" ]
     GlassTable                  [ "Mesa de Vidro"; "Aprecie a vista dos seus pés enquanto trabalha"; "Quadro" ]
@@ -192,6 +193,11 @@ Furniture
     Bookshelf                   [ "Estante"; "Encha de livros!" ]
     Receptiondesk               [ "Balcão de recepção"; "" ]
     SecurityDesk                [ "Mesa de Segurança"; "Coloque estrategicamente para obter melhores resultados" ]
+    SurveillanceDesk
+        [
+        "Mesa de Vigilância"
+        "Permite que um guarda vigie quatro câmeras de segurança por vez"
+        ]
     FloorPlant                  [ "Planta para o piso"; "Uma planta bonita" ]
     TablePlant                  [ "Planta para mesa"; "Árvore bonsai com poucos polignos" ]
     TableCactus                 [ "Cacto para mesa"; "" ]
@@ -252,21 +258,29 @@ Furniture
     LargeProductPrinter
         [
         "Impressora para grandes produtos"
-        "Imprime cópias menores para que os correios possam carregar mais"
+        "Imprime cópias menores para que os correios possam carregar mais"        
         ]
     ComponentPrinter            [ "Impressora de Componentes"; "Fabrica novos componentes de hardware" ]
-    ComponentAssembler          [ "Montador de Componentes"; "Monta componentes fabricados" ]
+    ComponentAssembler          
+    [ 
+   	"Montador de componentes"
+    "Monta componentes fabricados. Pode segurar {Constant:AssemblerMaxQueue} montagens em fila"
+    ]
     ComponentRecycler
         [
         "Reciclador de Componentes"
-        "Recicla componentes de montagens inacabadas para reutilizar posteriormente"
+        "Recicla componentes de montagens inacabadas para reutilizar posteriormente. {Aviso: Só deve ser colocado após o montador de componentes final}."
         "Base"
         ]
     ConveyorBelt                [ "Correia transportadora"; "" ]
+    ConveyorBelt1                [ "Correia transportadora (Tier 2)"; "" ]
+    ConveyorBelt2                [ "Correia transportadora (Tier 3)"; "" ]
     Ceiling-mountedConveyorBelt [ "Correia transportadora montada no teto"; "Mova as caixas sem bloquear sua equipe" ]
+    Ceiling-mountedConveyorBelt1 [ "Correia transportadora montada no teto (Tier 2)"; "" ]
+    Ceiling-mountedConveyorBelt2 [ "Correia transportadora montada no teto (Tier 3)"; "" ]
     ConveyorRamp                [ "Rampa Transportadora"; "" ]
     ConveyorSplitter            [ "Divisor do Transportador"; "Divida as caixas de entrada em até 3 direções" ]
-    Wall-mountedConveyorBelt    [ "Correia transportadora montada na parede"; "Transferência de caixa entre salas" ]
+    Wall-mountedConveyorBelt    [ "Correia transportadora montada na parede"; "Transferência de caixa entre salas" ]    
     Pallet
         [
         "Palete"
@@ -297,7 +311,7 @@ Furniture
         "Heliporto"
         "Automaticamente lança até 108 caixas na estratosfera para {Currency:6500} estourarem"
         ]
-    BoxElevator                 [ "Caixa do Elevador"; "Transferência de caixas entre andares" ]
+    BoxElevator                 [ "Elevador de Caixas"; "Transferência de caixas entre andares" ]
     CompanyLogo                 [ "Logotipo da Empresa"; ""; "Texto"; "Contorno"; "Sombra" ]
     CompanyLogoBig              ["Logotipo da Empresa Grande"; ""; "Texto"; "Contorno"; "Sombra" ]
     CompanyLogoHigh             [ "Logotipo da Empresa Alto"; ""; "Texto"; "Contorno"; "Sombra" ]
@@ -322,12 +336,13 @@ Furniture
     }
 
 Stairs    "Escadas"
+Column    "Coluna"
 Common    "Comum"
 Breakroom "Sala de descanso"
 Table     "Mesa"
 Sitting   "Sentado"
 Reception "Recepção"
-Outdoors  "Ao ar livre"
+Outdoors  "Ar livre"
 Utility   "Utilitário"
 Bathroom  "Banheiro"
 Kitchen   "Cozinha"
